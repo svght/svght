@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @svght
-- 👀 I’m interested in ...
+- 👀 I’m interested in AI\Automatic testing\etc,or anything can improve my programming skills.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 121149317@qq.com
 
 This stroy star in 2021 summer at my office in GZ.China.
 one day,I was try to finish my online-learning assigments and get enough Credits.
